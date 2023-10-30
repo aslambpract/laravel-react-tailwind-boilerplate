@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Adjust the header height as needed */
+.header {
+    height: 60px;
+}
+
+/* Set a min-height on the content container */
+.content {
+    min-height: calc(100vh - 60px); /* 100vh is the viewport height */
+}
