@@ -1,6 +1,17 @@
 # **Laravel and React Boilerplate with TailwindCSS**
 
-This project is a boilerplate for setting up a web application using Laravel and React, integrated with TailwindCSS for utility-first CSS styling. Developed by Aslam from Bpract Software Solutions LLP, it aims to provide a solid starting point for robust and scalable web applications.
+## **About This Project**
+
+This project is a boilerplate for setting up a web application, thoughtfully integrated with Laravel, React, and TailwindCSS for a utility-first CSS styling approach. It aims to provide a resilient foundation for building robust and scalable web applications, significantly streamlining the development process.
+
+### **Developed By**
+- **Aslam** 
+  - [LinkedIn](https://in.linkedin.com/in/aslamise)
+  
+### **Organization**
+- **Bpract Software Solutions LLP**
+  - [Website](https://bpract.com)
+  
 
 ## **Prerequisites**
 
